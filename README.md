@@ -27,7 +27,7 @@ Imagine that you have a Windows laptop with no trace of anything connected to A-
 1. Download the Windows binary of container-manager from [here.](http://support.sas.com/installation/viya/4/sas-container-manager/wx6/containermgr-windows.zip)
 2. Add a path to the container-manager binary in your system environment variables (this link shows an [example](https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/))
 3. Make sure Docker is started and running on your machine.
-4. Replace line #4 of your [getToken.ps1](./getToken.ps1) file with your Client ID and secret (you can obtain this from the [API portal](https://apiportal.sas.com/) or from the Orders page in [my.sas.com](my.sas.com)) 
+4. Replace line #7 of your [getToken.ps1](./getToken.ps1) file with your Client ID and secret (you can obtain this from the [API portal](https://apiportal.sas.com/) or from the Orders page in [my.sas.com](my.sas.com)) 
 
 
 #### Deployment steps
