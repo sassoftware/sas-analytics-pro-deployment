@@ -1,3 +1,5 @@
+This project is no longer under active development and was archived on 2025-01-07.
+
 # Deploy A-Pro, like a Pro!
 
 Now that SAS R&D has come out with container-manager, a utility which eases the deployment process for SAS Analytics Pro (and other single container offerings in future), let us take this automation even further!
